@@ -7,11 +7,6 @@ These make it easy to check solutions for homework or during studying.
 Intermediate results are also printed, so this makes it easy to locate errors.
 
 
-### Warning
-
-I have no idea what I'm doing.
-
-
 ## Running the notebooks
 
 You need jupyter, ipython and sage to run the notebooks.
@@ -27,3 +22,7 @@ Then just launch
     jupyter notebook
 
 and select the notebook you want to run.
+
+## Warning
+
+![I have no idea what I'm doing.](http://www.quickmeme.com/img/e3/e33bfc443d2cc3fcb79c254bd94ed1dfc1fe9d37d107d150a26a5e8e52fad0b0.jpg)
